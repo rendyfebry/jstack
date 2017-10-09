@@ -2,3 +2,4 @@
 /*.cog
 node_modules/
 coverage/
+lib/
