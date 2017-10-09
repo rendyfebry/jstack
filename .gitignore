@@ -1,5 +1,6 @@
 .DS_Store
 /*.cog
-node_modules/
-coverage/
-lib/
+/node_modules/
+/coverage/
+/lib/
+/dist/
